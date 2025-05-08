@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  input {
+    padding: 0.5rem;
+    width: 200px;
+  }
+  
+  button {
+    padding: 0.5rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.3rem auto;
+    width: 240px;
+    padding: 0.4rem 0.6rem;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+  
+  .close-btn {
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
